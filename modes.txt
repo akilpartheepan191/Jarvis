@@ -1,0 +1,1 @@
+discord bot mode-opens discord and starts the myuu bot typer

@@ -1,3 +1,7 @@
 open - takes command from the user and opens the application
 close-presses ctrl+w to close a tab or a window
 switch-presses alt+tab to switch a window
+activate-activates a mode(read https://replit.com/@akil191/Jarvis-1#modes.txt for more info).
+login-logins into camu.in
+time-tells the time
+date-tells the date
