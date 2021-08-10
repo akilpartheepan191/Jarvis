@@ -1,0 +1,3 @@
+open - takes command from the user and opens the application
+close-presses ctrl+w to close a tab or a window
+switch-presses alt+tab to switch a window
