@@ -1,1 +1,2 @@
 discord bot mode-opens discord and starts the myuu bot typer
+active mode-it will be very active

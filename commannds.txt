@@ -5,3 +5,7 @@ activate-activates a mode(read https://replit.com/@akil191/Jarvis-1#modes.txt fo
 login-logins into camu.in
 time-tells the time
 date-tells the date
+mute-mutes the volume
+plus-increases the volume by 6
+minus-decreases volume by 6
+remainder-sets remainder for the specific date
