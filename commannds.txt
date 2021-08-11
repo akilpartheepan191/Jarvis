@@ -9,3 +9,4 @@ mute-mutes the volume
 plus-increases the volume by 6
 minus-decreases volume by 6
 remainder-sets remainder for the specific date
+alarm-sets alarm for a specific time
