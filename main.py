@@ -1,3 +1,4 @@
+import datetime
 import time
 import keyboard as k
 def wait():
@@ -32,3 +33,10 @@ def login():
   k.write('camu.in')
   wai(2)
   k.send('enter')
+
+
+def telltime():
+  hour=int(datetime.datetime.now().hour)
+  minute=int(datetime.datetime.now().minute)
+  return f'the time is {hour} {minute}'
+
